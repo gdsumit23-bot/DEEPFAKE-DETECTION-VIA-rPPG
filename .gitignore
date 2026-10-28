@@ -1,0 +1,15 @@
+# Python / Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset / Large Media Files
+data/
+*.mp4
+*.avi
+*.mov
+
+# IDE / OS files
+.vscode/
+.DS_Store
